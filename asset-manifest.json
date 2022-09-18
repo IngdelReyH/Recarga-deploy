@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Recarga-deploy/static/css/main.3c883ae8.css",
+    "main.js": "/Recarga-deploy/static/js/main.3c9936c4.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Recarga-deploy/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Recarga-deploy/index.html",
+    "main.3c883ae8.css.map": "/Recarga-deploy/static/css/main.3c883ae8.css.map",
+    "main.3c9936c4.js.map": "/Recarga-deploy/static/js/main.3c9936c4.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Recarga-deploy/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c883ae8.css",
+    "static/js/main.3c9936c4.js"
+  ]
+}
